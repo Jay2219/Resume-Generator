@@ -1,4 +1,4 @@
 markdown
 xhtml2pdf
 streamlit
-google-generativeai
+google-genai

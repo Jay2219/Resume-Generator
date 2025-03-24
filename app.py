@@ -1,4 +1,3 @@
-import os
 import streamlit as st
 from src.gen_resume import get_resume, md_to_pdf
 
